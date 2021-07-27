@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jjmondragonrios-meli
 - 👀 I’m interested in the desing and development of architecture
 - 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on Assetsments - MeLi
+- 💞️ I’m looking to collaborate on Investments - MeLi
 - 📫 How to reach me  ...
 
 <!---
